@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MassManWork</string>
+    <string name="mass">Вес</string>
+    <string name="weight">Рост</string>
+    <string name="btn">Рассчитать</string>
+    <string name="indexTV">Ваш индекс</string>
+</resources>
