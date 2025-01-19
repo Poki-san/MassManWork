@@ -36,6 +36,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun onClick(view: View){
+        oneNumberErr.text=""
+        twoNumberErr.text=""
+        
         val height = oneNumberET.text.toString().toDoubleOrNull()
         val weight = twoNumberET.text.toString().toDoubleOrNull()
 
